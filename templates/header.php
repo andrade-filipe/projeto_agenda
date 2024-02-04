@@ -30,7 +30,7 @@
             </a>
             <div class="navbar-nav">
                 <a id="home-link" href="<?= $BASE_URL ?>index.php" class="nav-link active">Agenda</a>
-                <a id="home-link" href="<?= $BASE_URL ?>create.php" class="nav-link active">Adicionar Contato</a>
+                <a href="<?= $BASE_URL ?>create.php" class="nav-link active">Adicionar Contato</a>
             </div>
         </nav>
     </header>
