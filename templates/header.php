@@ -26,7 +26,7 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
             <a class="navbar-brand" href="<?= $BASE_URL ?>index.php">
-                <img src="<?= $BASE_URL ?>img/logo.svg" alt="Agenda">
+                <img src="<?= $BASE_URL ?>/img/logo.svg" alt="Agenda">
             </a>
             <div class="navbar-nav">
                 <a id="home-link" href="<?= $BASE_URL ?>index.php" class="nav-link active">Agenda</a>
